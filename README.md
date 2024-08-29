@@ -1,2 +1,1 @@
-# ds-2024-02
-ds-2024-02
+Repositório criado para a disciplina de Design de Software 
