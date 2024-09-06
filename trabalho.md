@@ -21,6 +21,7 @@ De acordo com o Carnegie Mellon Software Engineering Institute, instituto desenv
 - Planejar: atributos de qualidade e restrições de projeto são considerados para selecionar quais tipos de elementos serão usados ​​na arquitetura.
 - Do: Os elementos são instanciados para satisfazer os requisitos dos atributos de qualidade assim como requisitos funcionais.
 - Verificação: O projeto resultante é analisado para determinar se os requisitos foram atentidos.\
+\
 Este processo é repetido até que todos os requisitos arquitetônicos significativos sejam atendidos.\
 O método tem sido usado para projetar arquiteturas de software de produtos desde sistemas embarcados até sistemas de informação.
 De acordo com o livro “Quality Attribute Design Primitives”, o método ADD é baseado no entendimento da relação entre qualidades de um software e os mecanismos arquisteturais usados para atingir tais qualidades. Esse método tem como foco atingir duas metas principais: dar suporte aos estágios iniciais do processo de design, nos quais a capacidade de atingir os atributos de qualidade desejados é determinada; e permitir que o projeto comece cedo o suficiente no ciclo de vida para apoiar as modernas necessidades time-to-market.\
