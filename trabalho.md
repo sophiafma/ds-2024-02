@@ -20,7 +20,7 @@ A origem do Attribute Driven Design (ADD) pode ser rastreada até a década de 9
 De acordo com o Carnegie Mellon Software Engineering Institute, instituto desenvolvedor do método ADD, ADD é um método para projetar a arquitetura de software de um sistema ou coleção de sistemas com base em uma articulação explícita das metas de atributos de qualidade para o sistema. O método segue um processo de design recursivo que decompõe um sistema ou elemento de sistema por aplicando táticas arquitetônicas e padrões que satisfaçam seus requisitos de condução comentários. O ADD segue essencialmente uma estratégia de “Planejar, Fazer e Verificar”:
 1. Planejar: atributos de qualidade e restrições de projeto são considerados para selecionar quais tipos de elementos serão usados ​​na arquitetura.
 2. Do: Os elementos são instanciados para satisfazer os requisitos dos atributos de qualidade assim como requisitos funcionais.
-3. Verificação: O projeto resultante é analisado para determinar se os requisitos foram atentidos.\
+3. Verificação: O projeto resultante é analisado para determinar se os requisitos foram atentidos.
 
 
 Este processo é repetido até que todos os requisitos arquitetônicos significativos sejam atendidos.\
